@@ -1,14 +1,14 @@
 [tool.poetry]
-name = "cesar_convertor"
+name = "cesar_converter"
 version = "0.1.0"
-description = ""
+description = "Convert string by Cesar cipher"
 authors = ["Rhinik <deknowny@gmail.com>"]
+license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.8"
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.2"
 
 [build-system]
 requires = ["poetry>=0.12"]
