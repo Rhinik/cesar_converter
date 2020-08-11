@@ -1,0 +1,6 @@
+# MacOS's Finder data
+.DS_Store
+
+# Tools
+env/
+.idea/
