@@ -4,3 +4,11 @@
 # Tools
 env/
 .idea/
+todo/
+
+# Build
+cesar_converter.egg-info/
+dist/
+
+# Cache
+__pycache__/
