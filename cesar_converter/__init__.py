@@ -1,7 +1,7 @@
 """
 Provide tools for working with cesar cipher.
 
-More: [GitHub repository](https://github.com/Rhinik/cesar_convertor)
+More: [GitHub repository](https://github.com/Rhinik/cesar_converter)
 """
 
 from .alphabets import ALPHABETS
